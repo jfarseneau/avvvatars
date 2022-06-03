@@ -1,24 +1,9 @@
 export const BACKGROUND_COLORS = [
-  'F7F9FC',
-  'EEEDFD',
-  'FFEBEE',
-  'FDEFE2',
-  'E7F9F3',
-  'EDEEFD',
-  'ECFAFE',
-  'F2FFD1',
-  'FFF7E0',
-  'FDF1F7',
-  'EAEFE6',
-  'E0E6EB',
-  'E4E2F3',
-  'E6DFEC',
-  'E2F4E8',
-  'E6EBEF',
-  'EBE6EF',
-  'E8DEF6',
-  'D8E8F3',
-  'ECE1FE'
+  'D2EAF0', 
+  'FCCD59', 
+  'FAEB9F', 
+  '8EC8EC', 
+  'F4EFE9
 ]
 
 export const TEXT_COLORS = [
